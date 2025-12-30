@@ -1,0 +1,8 @@
+baseURL = 'https://blog.floppy.parts/'
+languageCode = 'en-us'
+title = 'Floppy Parts'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
