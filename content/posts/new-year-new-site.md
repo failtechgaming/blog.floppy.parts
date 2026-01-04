@@ -2,7 +2,7 @@
 date = '2026-01-01T16:11:20-05:00'
 draft = false
 title = 'New Year New Site'
-categories: ["miniatures"]
+categories = ["miniatures"]
 +++
 
 # New Year, New Site, New You?
