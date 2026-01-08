@@ -1,6 +1,6 @@
 +++
 date = '2026-01-08T11:28:06-05:00'
-draft = true
+draft = false
 title = 'Wub0'
 categories = ["blood bowl"]
 +++
