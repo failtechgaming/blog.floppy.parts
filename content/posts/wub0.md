@@ -7,6 +7,12 @@ categories = ["blood bowl"]
 
 # Weekly Update Bulletin Week 0
 
+
+
+<!--more-->
+
+
+
 ![wub0 page 1](/images/wub0/BBW0_1.png)
 
 ![wub0 page 2](/images/wub0/BBW0_2.png)
