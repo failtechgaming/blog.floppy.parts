@@ -40,6 +40,7 @@ So that brings us to the end of the month wrap-up. The 'Ooligan and Loony are st
 
 If you want to get ahold of me, you can now reach me at floppyparts@proton.me. Send me whatever you want.
 
-
+<script data-goatcounter="https://floppyparts.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 
 ![floppies](/images/spinning-floppies.gif "floppies")
