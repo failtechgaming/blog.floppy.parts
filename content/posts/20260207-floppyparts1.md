@@ -91,9 +91,6 @@ There you have it. Three new hot flops dropped in your ... lop.
 
 ---
 
-<script data-goatcounter="https://floppyparts.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-
 If you want to get ahold of me, you can now reach me at floppyparts@proton.me. Send me whatever you want.
 
 
