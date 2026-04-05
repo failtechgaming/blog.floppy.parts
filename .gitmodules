@@ -1,5 +1,7 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = git@github.com:theNewDynamic/gohugo-theme-ananke.git
+	
+[submodule "themes/terminal"]
 	path = themes/terminal
 	url = git@github.com:panr/hugo-theme-terminal.git
