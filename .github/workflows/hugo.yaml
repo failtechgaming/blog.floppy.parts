@@ -17,13 +17,8 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4        # Node.js 20 compatible
-      - uses: actions/setup-node@v4      # Node.js 20 compatible
-        with:
-          node-version: '20'
-      - uses: actions/cache@v4           # Node.js 20 compatible
-      - uses: actions/upload-artifact@v4 # Node.js 20 compatible
+
+
     env:
       DART_SASS_VERSION: 1.97.1
       GO_VERSION: 1.25.5
@@ -31,6 +26,12 @@ jobs:
       NODE_VERSION: 24.12.0
       TZ: Europe/Oslo
     steps:
+          - uses: actions/checkout@v4        # Node.js 20 compatible
+      - uses: actions/setup-node@v4      # Node.js 20 compatible
+        with:
+          node-version: '20'
+      - uses: actions/cache@v4           # Node.js 20 compatible
+      - uses: actions/upload-artifact@v4 # Node.js 20 compatible
       - name: Checkout
         uses: actions/checkout@v5
         with:
