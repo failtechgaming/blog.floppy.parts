@@ -1,6 +1,7 @@
 +++
 date = '2026-03-28T15:25:23-05:00'
 draft = false
+tags = ['music', 'cassettes']
 title = '20260328 My New Single'
 +++
 

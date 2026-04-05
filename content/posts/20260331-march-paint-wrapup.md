@@ -1,6 +1,8 @@
 +++
 date = '2026-03-31T07:56:06-05:00'
 draft = false
+categories = ['miniatures']
+tags = ['miniatures', 'painting']
 title = '20260331 March Painting Wrap Up'
 +++
 
