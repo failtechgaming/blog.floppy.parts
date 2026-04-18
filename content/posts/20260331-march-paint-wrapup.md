@@ -91,3 +91,5 @@ Knocking out 3 specialist Skablins this month really makes me think I might be a
 If you want to get ahold of me, you can now reach me at floppyparts@proton.me. Send me whatever you want.
 
 ![floppies](/images/spinning-floppies.gif "floppies")
+
+ <script data-goatcounter="https://floppyparts.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
