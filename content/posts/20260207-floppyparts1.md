@@ -2,7 +2,7 @@
 date = '2026-02-07T08:50:20-06:00'
 draft = false
 title = '20260207 Floppy Parts 1'
-categories = ["floppy disks"]
+tags = ['floppy disks']
 +++
 
 # We're so back

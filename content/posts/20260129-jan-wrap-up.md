@@ -1,7 +1,7 @@
 +++
 date = '2026-01-29T07:09:17-06:00'
 draft = false
-tag = ["miniatures"]
+tags = ['miniatures', 'painting']
 title = '20260129 Jan Wrap Up'
 
 +++

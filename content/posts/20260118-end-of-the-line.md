@@ -2,7 +2,7 @@
 date = '2026-01-17T17:35:43-06:00'
 draft = false
 title = '20260118 End of the Line'
-categories = ["blood bowl"]
+tags = ['miniatures', 'painting', 'blood bowl']
 +++
 
 # End of the line(players)

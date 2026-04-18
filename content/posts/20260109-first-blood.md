@@ -2,7 +2,7 @@
 date = '2026-01-09T16:13:49-05:00'
 draft = false
 title = '20260109 First Blood'
-categories = ["blood bowl"]
+tags = ['miniatures', 'painting', 'blood bowl']
 +++
 
 ### Unreal Tournament Voice
