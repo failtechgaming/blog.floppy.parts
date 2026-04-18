@@ -77,7 +77,7 @@ First, the idea: I don't remember what I was reading or looking at, but somethin
 
 The only problem was, what model do I use for this dumb idea? (I'm definitely punching above my weight with this plan re: my painting skills.) Enter: my Ikit Claw kitbash.
 
-![Ikit kitbash](/images/contests/Ikit6.jpg "Ikit kitbash")
+![Ikit kitbash](/images/contests/ikit6.jpg "Ikit kitbash")
 
 ###### We're going to take a quick little jaunt through my personal history with the Skaven and Warhammer in general. 
 
@@ -116,7 +116,7 @@ Blending reared its ugly head again, and at times I struggled with it. Definitel
 
 The secret weapon? Replacing ~~Citadel~~ Warhammer Contrast Medium with Army Painter Speed Paint Medium. The dropper bottle is a lifesaver - no more having to dip a brush for the paint, clean, dip a brush for the Contrast Medium, put it somewhere else on my pallete close to but not on the first paint, and god forbid you get the wrong ratio. the AP medium I can just drop a measured amount each time without having to alternate brushes or create a DMZ on my wet pallette between paints.
 
-![Ikit kitbash](/images/contests/Ikit3.jpg "Ikit kitbash")
+![Ikit kitbash](/images/contests/ikit3.jpg "Ikit kitbash")
 
 The flag was a bit of a sticking point. I saved it until the ultimate last step because I was dreading messing up the highlights and blending I accomplished with a shit freehand job. I wanted to do something a little "ambigiously Skaven" and not a specific clan marker or something, since my army in general is just "whatever Skaven I have." I sketched a bunch of ideas trying to figure out what I could fit in the given space but it was still not something I was looking forward to. 
 
@@ -126,11 +126,11 @@ The flag was a bit of a sticking point. I saved it until the ultimate last step 
 As I iterated on the design I continued to realize I didn't have as much space on the flag as I thought to freehand and the space (and design) keep getting smaller and more simple. Yeah, yeah, more practice means I get more experience with it and it stops being scary. But still. I didn't want to cut my teeth on a model that was going to be critiqued for an event. I mean, that's what I did, but still.
 
 
-![Ikit kitbash](/images/contests/Ikit4.jpg "Ikit kitbash")
+![Ikit kitbash](/images/contests/ikit4.jpg "Ikit kitbash")
 
 Expanding on the hazard stripes from the Ambot, I wanted to force myself to do more freehanding since there was this nice, big flag. And why not take freehanding one step further and add blending into that mix too? Since I wanted to avoid the standard Skaven triangle on the front because it was already on the flagpole, so I went with a set of claw marks, blending from highlights to lowlights. (The back of the flag is a far more simple design because I found the folds in the cloth to be more in the way.)
 
-![Ikit kitbash](/images/contests/Ikit5.jpg "Ikit kitbash")
+![Ikit kitbash](/images/contests/ikit5.jpg "Ikit kitbash")
 ![Goblin green base](/images/contests/goblingreen.jpg "Goblin green base")
 
 And of course, the Goblin Green base. Like any good rug, it ties the room together. I ended up going down a rabbit hole for this part, trying to figure out the best way to replicate the classic Goblin Green. Everyone on the internet says there's no 1:1 replica of it currently (not even the Nostalgia '94 attempt). I have never seen so many ranking charts for the same 7 or 8 green paints in my life. Everyone claims to have the secret recipe to mimic it. I tried a few but just relied on Warboss Green, which gets the most mentions in modern painting guides that I can find and even gets a call out as the official "modern" way to paint Goblin Green bases by Games Workshop.
