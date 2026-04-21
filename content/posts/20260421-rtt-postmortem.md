@@ -24,6 +24,8 @@ Not to bury the chase or cut to the lede, I tied for second place. Can't complai
 
 ###### But now for the complaining (not really)
 
+<!--more-->
+
 The event was scored using the Adepticon rubric, which, like a contestant on _Make Some Noise_ to the prompts, I had never seen before. 
 
 ![Rubric](/images/postmortem/blank-rubric.png "Blank rubric")
