@@ -21,7 +21,7 @@ Another May day, another May dollar? Anyway, another month in the painting books
 
 I finally managed to finish the starting lineup for the Skaville Skablins, completing the Bomma, Doom Diver, and Pogo back to back to back. I say starting lineup, because there's room on the roster for a second Troll, but a second troll was never part of the initial team build.
 
-![Bomma](/images/maywrapup/bomma.jpg "Bomma")
+![Bomma](/images/maywrapup/bomma1.jpg "Bomma")
 *Skablins Bomma, Jeff Rosenstock*
 
 ![DD](/images/maywrapup/doomdiver1.jpg "Doom Diver")
