@@ -17,6 +17,8 @@ hideComments = false
 
 Another month, another *some amount* of rats. There's really no way to know, even with computers. 
 
+<!--more-->
+
 With the first month of a friendly local gaming store escalation league underway/now under our collective belts, I spent that first month trying to work ahead and get the models painted that I needed for month 2 - there's additional league standing points for having a fully painted army and got-damn I wasn't going to paint the Stormvermin that was part of the first month's Spearhead army. 
 
 ### bombars away
