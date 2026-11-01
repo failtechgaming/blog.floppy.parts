@@ -25,8 +25,8 @@ Let's see if I can remember to go in chronological-ish order.
 
 First. we finished the two remaining Globradiers, completing the unit. For all the complaints I had while painting them, they do look pretty good as a full unit.
 
-![rat](/images/novwrapup/globe1.jpg)
-![rat](/images/novwrapup/globe2.jpg)
+![rat](/images/octwrapup/globe1.jpg)
+![rat](/images/octwrapup/globe2.jpg)
 
 And of course, a lovely family photo:
 
@@ -36,13 +36,13 @@ And of course, a lovely family photo:
 
 The same day as the Globetrotters I finished the Clanrat Leader/Champion, which meant I had a completed brick of 20 painted Clanrats, seen below:
 
-![rat](/images/novwrapup/clanrats1.jpg)
+![rat](/images/octwrapup/clanrats1.jpg)
 
 That means I'm on to painting my next brick of 20, but I'm going for a ~~faster~~ more stylized design for those Clanrats: based on that 5 color greyscale rat from [August](https://blog.floppy.parts/posts/20260901-august-paint-wrapup/#and-the-chaff), this new block of 20 will be Eshin aligned and shadowy.
 
 This poor quality photo shows you the general idea, using the same greyscale pallette with some topside edge highlighting in oranges and yellows to give them a torchlit feel.
 
-![rat](/images/novwrapup/eshin.jpg)
+![rat](/images/octwrapup/eshin.jpg)
 
 I went back and torchlit the one from August, so I'm 3 clanrats deep into the new brick (these two pictures are the two that were painted in October).
 
