@@ -30,7 +30,7 @@ First. we finished the two remaining Globradiers, completing the unit. For all t
 
 And of course, a lovely family photo:
 
-![rat](/images/novwrapup/globesquad.jpg)
+![rat](/images/octwrapup/globesquad.jpg)
 
 ### a leader
 
